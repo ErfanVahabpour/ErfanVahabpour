@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">A backend web developer</h3>
 
-- 🔭 I’m currently working on **a ERP web application**
+- 🔭 I’m currently working on **an ERP web application**
+
+- 🌱 I’m currently learning **ReactJS & German**
+
+- 💬 Ask me about **PHP & Laravel**
 
 - 📫 How to reach me **erfanvahabpour@yahoo.com**
 
-- ⚡ Fun fact **I play Minecraft**
+- ⚡ Fun fact **I love Minecraft**
 
 <p align="left">
 </p>
