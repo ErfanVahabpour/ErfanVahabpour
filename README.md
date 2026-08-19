@@ -26,19 +26,16 @@ Passionate software engineer with expertise in building robust backend systems a
 ## 🛠️ Technology Stack
 
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -46,7 +43,7 @@ Passionate software engineer with expertise in building robust backend systems a
 
 ### [Bale-Bot-SDK](https://github.com/ErfanVahabpour/Bale-Bot-SDK) ⭐
 
-A comprehensive Python SDK for building powerful bots on the Bale messaging platform. This project showcases my commitment to creating developer-friendly tools with production-ready quality.
+A comprehensive PHP SDK for building powerful bots on the Bale messaging platform. This project showcases my commitment to creating developer-friendly tools with production-ready quality.
 
 [![GitHub stars](https://img.shields.io/github/stars/ErfanVahabpour/Bale-Bot-SDK?style=social)](https://github.com/ErfanVahabpour/Bale-Bot-SDK)
 [![GitHub forks](https://img.shields.io/github/forks/ErfanVahabpour/Bale-Bot-SDK?style=social)](https://github.com/ErfanVahabpour/Bale-Bot-SDK)
@@ -58,18 +55,6 @@ A comprehensive Python SDK for building powerful bots on the Bale messaging plat
 - 🛡️ **Error Handling** - Comprehensive exception management
 - 📚 **Extensive Documentation** - Clear examples and usage guidelines
 - ⚡ **Event System** - Powerful event-driven architecture
-
-```python
-from bale import Bot, Message
-
-bot = Bot(token="YOUR_BOT_TOKEN")
-
-@bot.event
-async def on_message(message: Message):
-    await message.reply(f"Hello {message.author.first_name}!")
-
-bot.run()
-```
 
 ---
 
